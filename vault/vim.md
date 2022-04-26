@@ -2,7 +2,7 @@
 id: gvnuhlu7dd3zr4pkgshz8dw
 title: Vim
 desc: ''
-updated: 1650961858460
+updated: 1650967315093
 created: 1650961843586
 ---
 
@@ -96,14 +96,4 @@ Type: Misc, Productivity, Tech
 
 ---
 
-[References](https://www.notion.so/References-20392176b5824d55ad72d5a3c57cb6e3)
 
-[man](https://www.notion.so/man-1c7e71129b744924b48c6cffaa76dc56)
-
-> Resources
-> 
-> 
-> man vim
-> 
-> Oreilly Book - ****[Learning the vi and Vim Editors, 8th Edition](https://pdfhost.io/v/FdgGAB4bb_Learning_the_Vi_and_Vim_Editors)**** [[editable link](https://pdfhost.io/edit?doc=e5332ca3-dd4b-4fab-88c3-239633ef95e7)]
->

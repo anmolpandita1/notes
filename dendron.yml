@@ -75,6 +75,7 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
+    siteUrl: {WEBSITE_URL}
     enableFMTitle: true
     enableNoteTitleForLink: true
     enableMermaid: true

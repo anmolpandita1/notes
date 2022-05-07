@@ -2,7 +2,7 @@
 id: gvnuhlu7dd3zr4pkgshz8dw
 title: Vim
 desc: ''
-updated: 1651961969988
+updated: 1651962836577
 created: 1650961843586
 ---
 
@@ -19,6 +19,7 @@ Type: Misc, Productivity, Tech
 | --- | --- |
 
 - **Exiting 👻**
+
     |     |                                 |
     |-----|---------------------------------|
     | :q  | to quit the file                |
@@ -26,21 +27,24 @@ Type: Misc, Productivity, Tech
     | :q! | to trash all changes and quit   |
     | :wq | to save the changes and quit    |
     | ZZ  | to save the changes and quit    |
+
+    
+    
 - **Navigation**
-    
-    
-    | h j k l |   ⃪     ↓    ↑   → |
-    | --- | --- |
-    | 0 | to start of the line |
-    | $ (shift + 4) | to end of the line |
-    | e | to end of Word  |
-    | w | forward one word (alphanumeric characters make up words) |
-    | W | forward one Word (whitespace separates words) |
-    | b | backward one word (alphanumeric characters make up words) |
-    | B | backward one Word (whitespace separates words) |
-    | <number> wW / e / bB / h j k l * | Move <number> times <text objects> |
-    | <num> G (shift + g) | to specific line |
-    | % (shift + 5) | to matching parenthesis {} [] () |
+
+    | h j k l                           |  left down up right                                       |
+    | --------------------------------- | --------------------------------------------------------- |
+    | 0                                 | to start of the line                                      |
+    | $ (shift + 4)                     | to end of the line                                        |
+    | e                                 | to end of Word                                            |
+    | w                                 | forward one word (alphanumeric characters make up words)  |
+    | W                                 | forward one Word (whitespace separates words)             |
+    | b                                 | backward one word (alphanumeric characters make up words) |
+    | B                                 | backward one Word (whitespace separates words)            |
+    | <number> wW / e / bB / h j k l \* | Move <number> times <text objects>                        |
+    | <num> G (shift + g)               | to specific line                                          |
+    | % (shift + 5)                     | to matching parenthesis {} [] ()                          |
+
 - **Text Manipulation [...](https://www.notion.so/References-20392176b5824d55ad72d5a3c57cb6e3)**
     
     

@@ -2,7 +2,7 @@
 id: gvnuhlu7dd3zr4pkgshz8dw
 title: Vim
 desc: ''
-updated: 1650967315093
+updated: 1651961969988
 created: 1650961843586
 ---
 
@@ -17,15 +17,15 @@ Type: Misc, Productivity, Tech
 
 | vim <fileName>  | open a file |
 | --- | --- |
+
 - **Exiting 👻**
-    
-    
-    | :q | to quit the file |
-    | --- | --- |
+    |     |                                 |
+    |-----|---------------------------------|
+    | :q  | to quit the file                |
     | :e! | to trash all changes and reload |
-    | :q! | to trash all changes and quit |
-    | :wq | to save the changes and quit |
-    | ZZ (shift + zz) | to save the changes and quit |
+    | :q! | to trash all changes and quit   |
+    | :wq | to save the changes and quit    |
+    | ZZ  | to save the changes and quit    |
 - **Navigation**
     
     
